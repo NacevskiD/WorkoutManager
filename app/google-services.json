@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "919599678053",
+    "firebase_url": "https://userdata-28f46.firebaseio.com",
+    "project_id": "userdata-28f46",
+    "storage_bucket": "userdata-28f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919599678053:android:4fac72e66cf42d65",
+        "android_client_info": {
+          "package_name": "com.david.workoutmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919599678053-bt78os23erv4frnu2bp9rn271q16opq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB110MLuG3kwcJjbrn1eshkjvSJgUDdG7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
